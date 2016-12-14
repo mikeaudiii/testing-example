@@ -1,10 +1,2 @@
 language: java
 
-os:
- -windows
- 
- compiler:
- -javac
- 
- script:
-  -make && make testscript
